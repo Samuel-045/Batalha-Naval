@@ -6,6 +6,12 @@
 
 <h2>Descrição de projeto</h2>
 Algoritmo que simula uma batalha naval, utilizando matriz e loops: if-else e for.
+Após indicar uma linha e logo após uma coluna, o código informa se o usuário acertou ou não.
+<div align="center">
+   <img src="https://github.com/Samuel-045/Batalha-Naval/assets/95144250/b254c1d9-2196-45ca-925d-953bf7f9a79a"/>
+
+   >Demonstração do código rodando.
+</div>
 
 <h2>:file_folder: Como ter acesso ao projeto</h2>
 Basta baixar o arquivo em sua máquina, ter o java (da versão 14 em diante para rodar sem problemas) e alguma IDE instalada.
